@@ -4,6 +4,9 @@
 
 I created this theme for sensitive eyes. I just made some adjustments to preferences.txt and theme.txt, and modified the most used logos.
 Note that this is a BETA version, and not all logos migh work. Feel free to report any bugs and submit suggestions. 
+All files can be dl from here:
+
+http://www.mediafire.com/download/s5b2fwfxfge4728/DarkThemePs301-FABIOGALICIA.zip
 
 I hope you like it! Enjoy ;)
 
