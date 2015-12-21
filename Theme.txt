@@ -77,7 +77,6 @@ mode.title.color = #ffffff
 mode.background.color = #2E2E2E
 mode.outline.color = #F7F7F7
 
-
 # EDITOR - DETAILS
 
 # foreground and background colors
@@ -94,7 +93,7 @@ editor.linehighlight.color=#2E2E2E
 editor.linehighlight=true
 
 editor.caret.color = #76ffc7
-editor.selection.color = #2e2e2e
+editor.selection.color = #0D0D0D
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #a4a4a4,bold
