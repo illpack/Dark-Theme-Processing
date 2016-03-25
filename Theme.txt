@@ -70,12 +70,13 @@ mode.title.font = processing.sans,plain,12
 mode.title.color = #ffffff
 # outline color of the mode button
 #mode.button.color = #2e2e2e
-#mode.button.gap = 13
+#mode.button.gap = 10
 #mode.arrow.width
 #mode.background.color = #2E2E2E
 # stolen from gradient bottom
 mode.background.color = #2E2E2E
-mode.outline.color = #F7F7F7
+mode.outline.color = #2E2E2E
+
 
 # EDITOR - DETAILS
 
