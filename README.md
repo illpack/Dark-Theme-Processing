@@ -1,4 +1,4 @@
-# Dark-Theme-Processing  --  A dark theme for processing 3.0.1 -- BETA!
+# Dark-Theme-Processing  --  A dark theme for processing 3.0.1 & 3.0.2 -- BETA!
 
 ·· FABIO GALICIA 2015 ··
 
