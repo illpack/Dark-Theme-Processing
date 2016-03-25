@@ -4,11 +4,7 @@
 
 I created this theme for sensitive eyes. I just made some adjustments to preferences.txt and theme.txt, and modified the most used logos.
 Note that this is a BETA version, and not all logos migh work. Feel free to report any bugs and submit suggestions. 
-All files can be dl from here:
-
-http://www.mediafire.com/download/lpyy7n48yxg7g2l/DarkThemeProcessing3-0-1-FG2015.zip
-
-I hope you like it! Enjoy ;)
+I hope you like it! Enjoy and give feedback ;)
 
 INSTALLATION:
 
